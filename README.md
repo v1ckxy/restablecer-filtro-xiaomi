@@ -1,6 +1,6 @@
-# resetuj-xiaomi-filter
+# restablecer-filtro-xiaomi
 
-A site/guide (in Serbian) with a simple javascript function that can generate a command to reset Xiaomi Air Purifier filters.
+Un sitio o guía (en español) con una función sencilla JavaScript capaz de generar un comando para restablecer los filtros de los purificadores de aire Xiaomi.
 
-Available at:
+Versión en Serbio disponible en:
 https://resetuj-xiaomi-filter.netlify.app
